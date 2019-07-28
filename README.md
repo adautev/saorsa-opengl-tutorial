@@ -1,2 +1,2 @@
-# A sert of tutorials for "internal" use. (: 
+# A set of tutorials for "internal" use. (: 
 
